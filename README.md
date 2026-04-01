@@ -5,6 +5,8 @@
 ---
 
 ## **Analysis and Site Auditing**
+- [LinkMeta](https://linkmeta.softvoyagers.com/) - Free link metadata and preview extraction API for analyzing titles, descriptions, and Open Graph tags.
+- [LinkShrink](https://linkshrink.softvoyagers.com/) - Free URL shortener with built-in analytics for tracking link performance.
 - [Raven Tools](https://raventools.com/) - SEO software focused on site audits and rank tracking.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Industry-leading website crawler for technical SEO audits.
 - [Seobility](https://www.seobility.net/en/) - All-in-one SEO software including crawler, rank tracker, backlink checker, and reporting tools.
@@ -40,6 +42,7 @@
 - [FAQ Schema Generator](https://foxmaya.com/tools/faq-schema-generator) - Instantly generate FAQ structured data to improve your click-through rate.
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Test your microdata markup and see examples.
 - [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD.
+- [OGForge](https://ogforge.softvoyagers.com/) - Free Open Graph image generation API for creating dynamic social media preview images.
 - [Open Graph Debugger](https://developers.facebook.com/tools/debug/) - Debug Open Graph metadata.
 - [Schema.org Full List Documentation](http://schema.org/docs/full.html) - Full list of schema.org recipes for implementing structured data.
 
