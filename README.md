@@ -40,6 +40,7 @@
 - [FAQ Schema Generator](https://foxmaya.com/tools/faq-schema-generator) - Instantly generate FAQ structured data to improve your click-through rate.
 - [Google Rich Results Test](https://search.google.com/test/rich-results) - Test your microdata markup and see examples.
 - [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD.
+- [OGForge](https://ogforge.dev) - Free API for generating Open Graph images dynamically for better social media previews.
 - [Open Graph Debugger](https://developers.facebook.com/tools/debug/) - Debug Open Graph metadata.
 - [Schema.org Full List Documentation](http://schema.org/docs/full.html) - Full list of schema.org recipes for implementing structured data.
 
